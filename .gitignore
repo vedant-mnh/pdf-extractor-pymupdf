@@ -6,3 +6,9 @@ build/
 demo/README.rst
 docs/build
 docs/_build
+venv/
+__pycache__/
+dist/
+*.pyd
+*.so
+*.dll
